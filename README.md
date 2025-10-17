@@ -18,6 +18,7 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
+
 <img width="556" height="44" alt="image" src="https://github.com/user-attachments/assets/125573ed-b998-4b85-9028-70e955850c0a" />
 
 <img width="503" height="309" alt="image" src="https://github.com/user-attachments/assets/3c45eb7a-91af-4dd6-8f77-35cd733e7d1d" />
@@ -26,13 +27,21 @@ STEP 5:Include Necessary parameters in each functions.
 
 <img width="513" height="309" alt="image" src="https://github.com/user-attachments/assets/c47cad17-9f78-4eaf-a4a2-c6352acce85e" />
 
+
 <img width="424" height="412" alt="image" src="https://github.com/user-attachments/assets/66a443f9-59d1-4842-9cb9-3f33e25c9aad" />
+
+
 
 <img width="450" height="343" alt="image" src="https://github.com/user-attachments/assets/42b9fed4-0a7d-48d2-8f83-31b5fd8ac0a7" />
 
+
+
 <img width="462" height="306" alt="image" src="https://github.com/user-attachments/assets/08833df2-ac3f-45c2-b9ab-1f98bb7d0f03" />
 
-<img width="210" height="336" alt="image" src="https://github.com/user-attachments/assets/b78c4998-ced8-4a45-8e68-51ff3f80f247" />
+
+
+<img width="552" height="340" alt="image" src="https://github.com/user-attachments/assets/64232a1f-26d2-4ee1-8a72-fcd8a85506fa" />
+
 
 <img width="432" height="415" alt="image" src="https://github.com/user-attachments/assets/98477ba3-1805-4036-876f-43b19db96e0d" />
 
